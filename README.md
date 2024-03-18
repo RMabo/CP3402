@@ -5,10 +5,10 @@
 - Participated in finalizing the group agreement on our project board, ensuring a shared understanding of team expectations and responsibilities.
 
 ### Submitted Links
-- **Slack Channel**: [Link to the Slack channel]
-- **GitHub Repository**: [Link to the GitHub repository]
-- **Trello Board/GitHub Project**: [Link to the Trello board or GitHub project]
-- **LinkedIn Profile**: [Link to your LinkedIn profile]
+- **Slack Channel**: 
+- **GitHub Repository**: 
+- **Trello Board/GitHub Project**: 
+- **LinkedIn Profile**: 
 
 ### Teamwork and Communication Tools Setup
 - **LinkedIn Connections**: Established connections with all team members on LinkedIn to facilitate professional communication and collaboration.

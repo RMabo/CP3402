@@ -1,4 +1,5 @@
 Learning Activities & Resources
+
 Set up a local development environment to run a dynamic website with an integrated database, exploring various tools and technologies.
 Investigated and selected a software stack for local development, such as XAMPP, MAMP, or Docker, to run a server, PHP, and a database like MySQL.
 Installed and configured the chosen local development environment, ensuring compatibility with the dynamic site and its database requirements.

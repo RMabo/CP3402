@@ -5,7 +5,7 @@
 - Investigated and selected a software stack for local development, such as XAMPP, MAMP, or Docker, to run a server, PHP, and a database like MySQL.
 - Installed and configured the chosen local development environment, ensuring compatibility with the dynamic site and its database requirements.
 - Deployed a CMS or a custom-coded dynamic website on the local environment, incorporating a database to manage site content.
-- Utilized online tutorials and documentation to guide the setup and troubleshooting of the local development environment.
+-  Using online tutorials and documentation to guide the setup and troubleshooting of the local development environment.
 
 ### Estimated Hours
 - 8 hours

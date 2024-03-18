@@ -7,6 +7,7 @@ Deployed a CMS or a custom-coded dynamic website on the local environment, incor
 Utilized online tutorials and documentation to guide the setup and troubleshooting of the local development environment.
 
 Estimated Hours
+
 8 hours
 
 Content Insights
@@ -15,6 +16,7 @@ This hands-on experience helped me understand the workflow of local to productio
 It highlighted how a well-configured local setup can streamline development processes, enhance testing accuracy, and reduce deployment issues.
 
 Career/Employability/Learning Insights
+
 Mastering local development and deployment techniques is essential for modern web developers, reflecting real-world practices where applications are developed locally before being deployed to production. 
 This skill not only enhances technical proficiency but also fosters a deeper understanding of the deployment lifecycle, critical for ensuring the reliability and stability of web applications.
 The ability to effectively set up and manage local development environments is a valuable skill in the tech industry, showcasing adaptability and problem-solving capabilities.
